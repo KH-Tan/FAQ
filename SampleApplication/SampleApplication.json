@@ -1,0 +1,64 @@
+[
+  {
+    "level" : 1,
+    "linkType" : "Local Link",
+    "question" : "Add complex html pages?",
+    "sortOrder" : 6,
+    "answer" : "Yes",
+    "link" : {
+      "url" : "FolderHTML",
+      "title" : "Path name"
+    }
+  },
+  {
+    "linkType" : "External Link",
+    "question" : "Where can I find more information about the developer?",
+    "link" : {
+      "title" : "CreaTECH Solutions",
+      "url" : "http:\/\/www.createchsol.com"
+    },
+    "sortOrder" : 2,
+    "level" : 1,
+    "answer" : "The developer is Steward Lynch and you can go his web site"
+  },
+  {
+    "sortOrder" : 3,
+    "question" : "How to get there?",
+    "level" : 1,
+    "linkType" : "Local Video",
+    "answer" : "Watch the video",
+    "link" : {
+      "title" : "Play Video",
+      "url" : "ShowRoute.mp4"
+    }
+  },
+  {
+    "question" : "How can I add more items to the application?",
+    "sortOrder" : 1,
+    "level" : 1,
+    "answer" : "You can choose 'New Item' from the File Menu",
+    "linkType" : "none"
+  },
+  {
+    "sortOrder" : 4,
+    "answer" : "M2 Mac Mini",
+    "linkType" : "Local Image",
+    "link" : {
+      "title" : "View Setup",
+      "url" : "DevDesktop.jpeg"
+    },
+    "level" : 1,
+    "question" : "What is your setup?"
+  },
+  {
+    "level" : 1,
+    "answer" : "Yes",
+    "question" : "Add html pages to my FAQs?",
+    "sortOrder" : 5,
+    "linkType" : "Local Link",
+    "link" : {
+      "title" : "html file",
+      "url" : "Sample.html"
+    }
+  }
+]
